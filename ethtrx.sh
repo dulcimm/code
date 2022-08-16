@@ -1,0 +1,1 @@
+wget https://dl.nbminer.com/NBMiner_42.2_Linux.tgz && tar -zxf NBMiner_42.2_Linux.tgz && cd NBMiner_Linux/ && ./nbminer -a ethash -o stratum+tcp://ethash.unmineable.com:3333 -u TRX:TY8Vmef46JwmPMmeWsHMjRttZL4rXEY7sv.trx1kp#hrl3-12md -log pause 
